@@ -1,0 +1,724 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Memorable song on the unhappie hunting in Chevie-Chase, betweene Earle Piercie of England and Earle Dowglas of Scotland to the tune of Flying fame.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50585</idno>
+            <idno type="STC">Wing M1677A</idno>
+            <idno type="STC">ESTC R38044</idno>
+            <idno type="EEBO-CITATION">17163435</idno>
+            <idno type="OCLC">ocm 17163435</idno>
+            <idno type="VID">106072</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50585)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106072)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1620:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Memorable song on the unhappie hunting in Chevie-Chase, betweene Earle Piercie of England and Earle Dowglas of Scotland to the tune of Flying fame.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1645?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Without music.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Printed in 5 columns.</note>
+                  <note>Imperfect: pages torn.</note>
+                  <note>Reproduction of original in the Manchester Free Reference Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:106072:1"/>
+            <head>Memorable Song on the unhappie Hunting in <hi>Chevie-Chaſe,</hi> between Earle <hi>Piercie</hi> of <hi>England,</hi> and Earle <hi>Dowglas</hi> of <hi>Scotland.</hi>
+            </head>
+            <opener>To the Tune of, <hi>Flying Fame.</hi>
+            </opener>
+            <div n="1" type="part">
+               <lg>
+                  <l>God proſper long our Noble King,</l>
+                  <l>our lives and ſafeties all,</l>
+                  <l>A waful Hunting once there did</l>
+                  <l>in <hi>Chevie-Chaſe</hi> befall:</l>
+                  <l>To dr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve the Deer with hound and horn,</l>
+                  <l>Earle <hi>Piercy</hi> tooke his way,</l>
+                  <l>The child may rue that is unborn</l>
+                  <l>the hunting on that day.</l>
+               </lg>
+               <lg>
+                  <l>The ſtout Earle of <hi>Northumberland,</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> vow t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>od did make,</l>
+                  <l>His pleaſure in the <hi>Scottiſh</hi> woods,</l>
+                  <l>three Summers dayes to take:</l>
+                  <l>The chiefeſt Harts in <hi>Chevie-Chaſe,</hi>
+                  </l>
+                  <l>to kill and beare away,</l>
+                  <l>Theſe tydings to Earl <hi>Dowglas</hi> came</l>
+                  <l>in <hi>Scotland</hi> where he lay.</l>
+               </lg>
+               <lg>
+                  <l>Who ſent Earle <hi>Piercy</hi> perſent word,</l>
+                  <l>he would prevent his ſport,</l>
+                  <l>The <hi>Engliſh</hi> Earle not fearing this,</l>
+                  <l>did to the woods reſort,</l>
+                  <l>With fifteene hundred Bow-men bold,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll choſen men of might,</l>
+                  <l>Who knew full well in time of war,</l>
+                  <l>to aime their Shafts aright.</l>
+               </lg>
+               <lg>
+                  <l>T<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e gallant Grey-hound ſwiftly ran,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> chaſe the Fallow Deere,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Monday they began to hunt</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> d<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y l<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id appear.</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d long before high-noone they had</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n h<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dred f<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t Bucks ſlaine<g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> having din'd<g ref="char:punc">▪</g> the Drovers went</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>owze them up againe.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ow-men muſtred on the Hills,</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll able to endure,</l>
+                  <l>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ir back ſides all with ſpeciall care</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> day were guarded ſure:</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Hounds ran ſwiftly through the woods</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e nimble Deere to take</l>
+                  <l>with their cryes the hils and dales</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cho ſhrill did make.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>erc<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> to the Quarry went,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iew the tender Dare,</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>oth he, Earle <hi>Dow<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s</hi> promiſed</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ay to meet me here</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> if I thought he would not come,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ger would I ſtay</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at a brave young Gentleman</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o the Earl did ſay:</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>der doth Earl <hi>Dowglas</hi> come,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en in Armour bright,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>nty hundred <hi>Scotiſh</hi> Spears</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="7 letters">
+                        <desc>〈7 letters〉</desc>
+                     </gap>g in our ſight;</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n of <hi>Tevidale<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" extent="3 words">
+                        <desc>〈◊◊◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iuer <hi>Tweed,</hi>
+                  </l>
+                  <l>Then ceaſe your ſport Earl <hi>Piercy</hi> ſaid,</l>
+                  <l>and take your Bowes with ſpeed.</l>
+               </lg>
+               <lg>
+                  <l>And now with me my Countrey-men</l>
+                  <l>your courage forth advance</l>
+                  <l>For never was there, Champion yet</l>
+                  <l>in <hi>Scotland</hi> or in <hi>France</hi>
+                  </l>
+                  <l>That ever did on horſe-back come,</l>
+                  <l>but if my hap it were,</l>
+                  <l>I durſt incounter man for man,</l>
+                  <l>with him to breake a Speare.</l>
+               </lg>
+               <lg>
+                  <l>Earl <hi>Dowglas</hi> on a Milk white Stèed,</l>
+                  <l>moſt like a Baron bold,</l>
+                  <l>Rode foremoſt of the company,</l>
+                  <l>whoſe Armour ſhone like gold:</l>
+                  <l>Shew me (ſaid he) whoſe me ye be,</l>
+                  <l>that hunt ſo boldly here,</l>
+                  <l>That without my conſent doe chaſe,</l>
+                  <l>and kill my Fallow Deere;</l>
+               </lg>
+               <lg>
+                  <l>The man that firſt did anſwer make,</l>
+                  <l>was Noble <hi>Piercy</hi> he,</l>
+                  <l>Who ſaid, we liſt not to declare,</l>
+                  <l>nor ſhew whoſe men we be:</l>
+                  <l>Yet we will ſp<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd our deareſt blood,</l>
+                  <l>thy chefeſt Harts to ſlay,</l>
+                  <l>Then <hi>Dowglas</hi> ſwore a ſolemn oath,</l>
+                  <l>and thus in rage did ſay:</l>
+               </lg>
+               <lg>
+                  <l>Ere thus I will out-braved be,</l>
+                  <l>one of us <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wo <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>l dye,</l>
+                  <l>I know thee well, <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> th<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> art,</l>
+                  <l>Lord <hi>Piercy,</hi> ſo am I;</l>
+                  <l>But truſt me <hi>Piercy</hi> pittie it were,</l>
+                  <l>and great offence to kill</l>
+                  <l>Any of theſe our harmleſs men,</l>
+                  <l>for they have done no ill.</l>
+               </lg>
+               <lg>
+                  <l>Let thou and I the <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>attell try,</l>
+                  <l>and let our men abide:</l>
+                  <l>Accurſt be he Lord <hi>Piercy</hi> ſaid,</l>
+                  <l>by whom it is deny'd:</l>
+                  <l>Then ſtept a gallant Squire forth,</l>
+                  <l>
+                     <hi>Wi<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>heringon</hi> was his name,</l>
+                  <l>Who ſaid I would not have it told</l>
+                  <l>to <hi>Henry</hi> our King for ſhame,</l>
+               </lg>
+               <lg>
+                  <l>That ere my Captains fought on foot,</l>
+                  <l>and I ſtood looking on,</l>
+                  <l>You two be Earls quoth <hi>Witherington</hi>
+                  </l>
+                  <l>and I a Squire alone:</l>
+                  <l>Ile doe the beſt that doe I may,</l>
+                  <l>while I have power to ſtand,</l>
+                  <l>While I have power to weild my ſword</l>
+                  <l>Ile fight with heart and hand.</l>
+               </lg>
+               <lg>
+                  <l>Our <hi>Engliſh</hi> Archer<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bent their bows,</l>
+                  <l>their hearts wars good and true,</l>
+                  <l>At the firſt flight of Arrowes ſent,</l>
+                  <l>full four ſcore <hi>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cots</hi> they ſlew,</l>
+                  <l>To drive the Deer with hound and horn,</l>
+                  <l>
+                     <hi>Dowgals</hi> bad on the bent,</l>
+                  <l>A Captaine mov'd with mickle pride,</l>
+                  <l>the Speares to ſhivers went.</l>
+               </lg>
+               <lg>
+                  <l>They clo<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d full faſt on every ſide,</l>
+                  <l>no ſlackneſſe there was found,</l>
+                  <l>And many a gallant Gentleman</l>
+                  <l>lay gaſping on the ground:</l>
+                  <l>O Chriſt, it was a griefe to ſee,</l>
+                  <l>and likewiſe for to heare</l>
+                  <l>The cryes of men lying in their gore,</l>
+                  <l>and ſcattered here and there.</l>
+               </lg>
+               <lg>
+                  <l>At laſt theſe two ſtout Earles did méet,</l>
+                  <l>like Captaines of great might,</l>
+                  <l>Like Lyns mov'd they laid on load,</l>
+                  <l>and made a cruell fight;</l>
+                  <l>T<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey fought untill they both did ſweat</l>
+                  <l>with ſwords of tempered ſteele,</l>
+                  <l>Vntll the blood like drops of rain,</l>
+                  <l>they trickling downe did fèele.</l>
+               </lg>
+               <lg>
+                  <l>Yeeld thee Lord <hi>Piercy, Dowglas</hi> ſaid,</l>
+                  <l>in faith I will thee bring,</l>
+                  <l>Where thou ſhalt high advanced be</l>
+                  <l>by <hi>James our Scottiſh</hi> King;</l>
+                  <l>Thy ramſon will I freely give,</l>
+                  <l>and thus report of thee,</l>
+                  <l>Thou art the moſt couragious Knight</l>
+                  <l>as ever I did ſee.</l>
+               </lg>
+               <lg>
+                  <l>No <hi>Dow<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>s</hi> 
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>th Earle <hi>Piercy</hi> then</l>
+                  <l>thy proffers I doe <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>I will not yeeld to any <hi>Scot</hi>
+                  </l>
+                  <l>that ever yet was borne:</l>
+                  <l>With tha<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> there came an Arrow keen,</l>
+                  <l>ou<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of an <hi>England</hi> Bow,</l>
+                  <l>And ſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uck Earl <hi>Dowglas</hi> to the heart,</l>
+                  <l>a deep end deadly blow.</l>
+               </lg>
+               <lg>
+                  <l>Who never ſpak more words then theſe</l>
+                  <l>fight on my merry man all,</l>
+                  <l>For why my life is at an end,</l>
+                  <l>Earle<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Piercy</hi> ſées my fall:</l>
+                  <l>Then leaving life, Earle <hi>Piercy</hi> took,</l>
+                  <l>the dead man by the hand,</l>
+                  <l>And ſaid Earle <hi>Dowglas</hi> for thy life</l>
+                  <l>would I had loſt my Land.</l>
+               </lg>
+               <lg>
+                  <l>O Chriſt my very heart doth bleed,</l>
+                  <l>with ſorrow for thy ſake,</l>
+                  <l>For ſure a more redoubted Knight</l>
+                  <l>miſchance did never take.</l>
+                  <l>A Knight among the <hi>Scots</hi> there was</l>
+                  <l>which ſaid Earle <hi>Dowglas</hi> dye,</l>
+                  <l>Who ſtrait in wrath did vow reveng</l>
+                  <l>upon the Earle <hi>Piercy.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part,</head>
+               <opener>to the ſame Tune.</opener>
+               <lg>
+                  <l>SIr <hi>Hugh Montgomery</hi> was he cal'd,</l>
+                  <l>who with a Speare full bright,</l>
+                  <l>Well mounted on a gallant Stèed,</l>
+                  <l>ran fiercely through the fight.</l>
+                  <l>And paſt the <hi>Engliſh</hi> Archers all,</l>
+                  <l>wi<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ut all dread or feare</l>
+                  <l>And through Earle <hi>Pierc<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> body then</l>
+                  <l>he thruſt his hatefull Speare,</l>
+               </lg>
+               <lg>
+                  <l>With ſuch a vehement force and might</l>
+                  <l>his body he did gore,</l>
+                  <l>The ſtaffe came through the other ſide</l>
+                  <l>a large cloth-yard and more:</l>
+                  <l>Thus did both theſe ſtout Nobles dye,</l>
+                  <l>whoeſ courage none could ſtaine,</l>
+                  <l>An <hi>Engliſh</hi> Archer then perceiv'd</l>
+                  <l>the Noble Earle was ſlaine:</l>
+               </lg>
+               <lg>
+                  <l>He had <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ood Bow in his hand,</l>
+                  <l>made of a truſtie Tree,</l>
+                  <l>An Arrow of a cloth-yard long</l>
+                  <l>unto the head drew he:</l>
+                  <l>Againſt Sir <hi>Hugh Montgomery,</hi>
+                  </l>
+                  <l>ſo right his ſhaft he ſet</l>
+                  <l>The Grey-gooſe wing that was thereon</l>
+                  <l>in his heart blood was wet.</l>
+               </lg>
+               <lg>
+                  <l>The fight did laſt from break of day,</l>
+                  <l>till ſetting of the Sun,</l>
+                  <l>For when they rung the Evening bell</l>
+                  <l>the battle ſcarce was done.</l>
+                  <l>With ſtout Earl <hi>Piercy</hi> there was ſlain</l>
+                  <l>Sir <hi>John</hi> of <hi>Ogerton,</hi>
+                  </l>
+                  <l>Sir <hi>Robert Ratcliffe</hi> and Sir <hi>John,</hi>
+                  </l>
+                  <l>Sir <hi>James</hi> that bold Baron.</l>
+               </lg>
+               <lg>
+                  <l>And with Sir <hi>George</hi> &amp; good ſir <hi>James,</hi>
+                  </l>
+                  <l>both Knights of good account,</l>
+                  <l>Good Sir <hi>Ralph Rabby</hi> there was ſlain,</l>
+                  <l>W<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſe proweſſe did ſurmount:</l>
+                  <l>For <hi>Witherington</hi> needs muſt I wa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le,</l>
+                  <l>as one in dolefull dumps,</l>
+                  <l>For when his legs were ſmitten off,</l>
+                  <l>he fought upon his ſtumps.</l>
+               </lg>
+               <lg>
+                  <l>And with Earl <hi>Dowglas</hi> there was ſlain</l>
+                  <l>Sir <hi>Hugh Montgomery,</hi>
+                  </l>
+                  <l>Sir <hi>Charles Morrell,</hi> that from the field</l>
+                  <l>one foot would never flye:</l>
+                  <l>Sir <hi>Charles Morrell</hi> of <hi>Harcliffe</hi> too,</l>
+                  <l>his Siſters ſon was he</l>
+                  <l>Sir <hi>David Lamb,</hi> ſo well eſteem'd,</l>
+                  <l>but ſav'd he could not be,</l>
+               </lg>
+               <lg>
+                  <l>And the Lord <hi>Markwell</hi> in like caſe,</l>
+                  <l>did with Earle <hi>Dowglas</hi> dye</l>
+                  <l>Of twenty hundred <hi>Scottiſh</hi> Speares,</l>
+                  <l>ſcarce fiftie five did flye:</l>
+                  <l>Of fifteene hundred <hi>Engliſhmen,</hi>
+                  </l>
+                  <l>went home but fiftie three,</l>
+                  <l>The reſt were ſlain in <hi>Chevie-Chaſe,</hi>
+                  </l>
+                  <l>under the green-wood Trée.</l>
+               </lg>
+               <lg>
+                  <l>Next day did many widowes come,</l>
+                  <l>their huſband to bewaile,</l>
+                  <l>They waſht their wounds with briniſh tears,</l>
+                  <l>but all cou<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d not prevaile:</l>
+                  <l>Their bodies bath'd in purple blood,</l>
+                  <l>they b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re with them away,</l>
+                  <l>They kiſt them dead a thouſand times,</l>
+                  <l>ere they were clad in clay.</l>
+               </lg>
+               <lg>
+                  <l>This news was brought to <hi>Edenburg,</hi>
+                  </l>
+                  <l>where <hi>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cotlands</hi> King did raigne</l>
+                  <l>that brave Earle <hi>Dowglas</hi> ſuddenly</l>
+                  <l>was with an Arrow ſlaine:</l>
+                  <l>O heavie news King <hi>James</hi> did ſay,</l>
+                  <l>
+                     <hi>Scotland</hi> can witneſſe be,</l>
+                  <l>I have not any Captaine more,</l>
+                  <l>of ſuch account as be.</l>
+               </lg>
+               <lg>
+                  <l>Like tydings to King <hi>Henry</hi> came,</l>
+                  <l>within as ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ort a ſpace,</l>
+                  <l>That <hi>Piercy of Northumberland</hi>
+                  </l>
+                  <l>was ſlaine in <hi>Chevie-Chaſe:</hi>
+                  </l>
+                  <l>Now God be with him, ſaid our King,</l>
+                  <l>ſince 'twill no better be</l>
+                  <l>I truſt I have within my Realme</l>
+                  <l>ſide hundred as good as he.</l>
+               </lg>
+               <lg>
+                  <l>Yet ſhall not <hi>Scots</hi> nor <hi>Scotland</hi> ſay,</l>
+                  <l>but I will vengeance take,</l>
+                  <l>And be <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ev<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nged on them all</l>
+                  <l>for brave <hi>E<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rl<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Piercie'<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> ſake:</l>
+                  <l>This vow theKing did well performe,</l>
+                  <l>after on <hi>H<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mb<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Downe</hi>
+                  </l>
+                  <l>In one day fiftie Knights were ſlaine,</l>
+                  <l>with Lords of high renowne.</l>
+               </lg>
+               <lg>
+                  <l>And of the reſt of ſmall account,</l>
+                  <l>did many hundred dye,</l>
+                  <l>Thus ended the Hun<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing in <hi>Chevie-Chaſe</hi>
+                  </l>
+                  <l>made by the Lord <hi>Piercy.</hi>
+                  </l>
+                  <l>God ſave the King and bleſſe this Land</l>
+                  <l>with Pleaſure Ioy and Peace,</l>
+                  <l>and grant henceforth that <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll debate</l>
+                  <l>'twixt Noblemen may ceaſe.</l>
+               </lg>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London, Printed for <hi>E. Wright</hi> dwelling in Gilt-ſpurſtreet</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
